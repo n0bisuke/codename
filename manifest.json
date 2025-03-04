@@ -1,0 +1,10 @@
+{
+  "name": "コードネーム キーカード",
+  "short_name": "キーカード",
+  "description": "コードネームのキーカードをランダムに生成するWebアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
